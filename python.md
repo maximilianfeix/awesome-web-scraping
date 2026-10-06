@@ -357,6 +357,7 @@ event loops.*
 ## Proxy Tools
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
+* [proxy-scraper](https://github.com/maximilianfeix/proxy-scraper) - Collects free HTTP/SOCKS proxies from 700+ sources, keeps only verified ones (honeypot and content checks) and serves them as a rotating proxy.
 
 ## Proxy Server
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
